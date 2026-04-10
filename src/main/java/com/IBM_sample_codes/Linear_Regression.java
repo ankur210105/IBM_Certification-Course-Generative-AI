@@ -2,7 +2,7 @@ package com.IBM_sample_codes;
 
 import java.util.Scanner;
 
-public class Liner_Regression {
+public class Linear_Regression {
     public static void run_regression() {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number of months");

@@ -17,7 +17,7 @@ public class Main {
                 Basic_Chatbot.chatbot();
                 break;
             case 2:
-                Liner_Regression.run_regression();
+                Linear_Regression.run_regression();
                 break;
             case 3:
                 System.out.println("Exiting...");
