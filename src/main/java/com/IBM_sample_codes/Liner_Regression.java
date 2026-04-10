@@ -1,9 +1,9 @@
-package com.example;
+package com.IBM_sample_codes;
 
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class Liner_Regression {
+    public static void run_regression() {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the number of months");
         int mo=sc.nextInt();
